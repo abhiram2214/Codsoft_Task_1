@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+header{
+    background:#3399ff;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.photo{
+    width:140px;
+    height:140px;
+    border-radius:50%;
+}
+
+section{
+    background:white;
+    margin:20px;
+    padding:15px;
+    border-radius:8px;
+}
+
+h2{
+    color:#0066cc;
+}
+
+a{
+    background:#0066cc;
+    color:white;
+    padding:8px 15px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+a:hover{
+    background:#004d99;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
